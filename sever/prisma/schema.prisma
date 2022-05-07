@@ -1,0 +1,36 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// feedbacks 
+
+
+// 1, 2, 3, 4, 5, 6, 7
+// para o ID ser auto increment seria dessa forma
+// id Int @id @default(autoincrement())
+
+// UUID
+// Para o ID ser Universal Unique ID seria dessa forma
+// id String @id @default(uuid())
+// dessa forma toda vez que um feedback for criado ele vai possuir um id unico.
+
+model Feedback {
+
+  id String @id @default(uuid())
+
+  type       String
+  comment    String
+  screenshot String?
+
+  @@map("feedbacks")
+}
+
+
