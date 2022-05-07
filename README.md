@@ -30,12 +30,8 @@ Um Component Widget para feedback que pode ser utilizado em qualquer site.
 - TailWindCSS
 - ReactJS
 - NodeJS
-- React native
-- Expo
 - ESLint + Prettier + EditorConfig;
 - VS Code
-
-## 🚀 **Em constante evolução...**
 
 ---
 
