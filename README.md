@@ -38,4 +38,4 @@ https://nlw-return-impulse-luccasoncini-opzwxn85d-luccasoncini.vercel.app/
 
 ---
 
-Feito com ♥ by [Igor Thierry](https://www.linkedin.com/in/igorthierry/)
+Feito com ♥ por <a href="https://www.linkedin.com/in/lucca-soncini-727930207/">Lucca Dias Soncini</a>)
