@@ -1,7 +1,3 @@
-<p align="center">
-    <img alt="Git Explorer" src="./.github/Capa.png"/>
-</p>
-
 <h1 align="center">
 	NLW Return Impulse by Rockeseat
 </h1>
@@ -9,7 +5,7 @@
 <p align="center">Trilha Impulse do Evento Next Level Week Return.</p>
 
 <p align="center">
-	<a href="">
+	<a href="https://nextlevelweek.com/episodios/impulse/abertura/edicao/8">
 		<img alt="License" src="https://raw.githubusercontent.com/IgorThierry/nlw-return-impulse/main/.github/Capa.png">
 	</a>
   
